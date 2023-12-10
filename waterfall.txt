@@ -1,0 +1,50 @@
+The Waterfall model, while once a popular and widely used software development methodology, has several drawbacks. Here are some of the key limitations associated with the Waterfall model:
+
+1. **Sequential and Linear:**
+   - The Waterfall model follows a rigid, sequential approach where each phase must be completed before moving to the next.
+   - This can lead to delays, as subsequent phases cannot begin until the previous one is finished.
+
+2. **Limited Flexibility:**
+   - It is difficult to accommodate changes once the project is underway, as the Waterfall model is not designed to handle modifications easily.
+   - Client feedback or changes in requirements may result in significant disruptions and additional costs.
+
+3. **Late Detection of Defects:**
+   - Testing is typically performed toward the end of the development lifecycle, which means that defects may not be discovered until late in the process.
+   - Late detection can lead to increased costs and efforts to fix issues.
+
+4. **Customer Involvement:**
+   - Customer involvement is usually limited to the beginning and end of the project.
+   - This can result in misunderstandings or misalignments between the delivered product and customer expectations.
+
+5. **Risk Management:**
+   - The Waterfall model does not handle uncertainties and risks well.
+   - If unexpected issues arise, the entire project timeline and budget may be at risk.
+
+6. **Long Delivery Time:**
+   - The linear nature of the Waterfall model can lead to longer delivery times, especially for large and complex projects.
+   - Clients may need to wait for extended periods before receiving a usable product.
+
+7. **No Partial Deliveries:**
+   - The model does not allow for partial deliveries of the product until the final phase is complete.
+   - This can be problematic if stakeholders require partial functionality or incremental releases.
+
+8. **Limited Client Feedback:**
+   - Client feedback is typically collected at the beginning and the end of the project.
+   - Limited feedback opportunities may result in a final product that does not fully meet client needs.
+
+9. **Adaptability to Change:**
+   - Adapting to changes in technology or market conditions during the development process can be challenging.
+   - The model assumes that requirements are stable and known at the outset.
+
+10. **Documentation Overhead:**
+    - The Waterfall model requires extensive documentation for each phase.
+    - This can be time-consuming and may not always add significant value, especially if requirements change.
+
+11. **Lack of Transparency:**
+    - Stakeholders may have limited visibility into the project until the final product is delivered.
+    - Lack of transparency can lead to misunderstandings and dissatisfaction.
+
+12. **Not Suitable for Large Projects:**
+    - The Waterfall model may not be suitable for large, complex projects where changes are likely to occur or where iterative development is more beneficial.
+
+As a response to these drawbacks, many software development teams have adopted more flexible and iterative methodologies, such as Agile, which allow for better adaptation to changing requirements and improved collaboration with stakeholders throughout the development process.
